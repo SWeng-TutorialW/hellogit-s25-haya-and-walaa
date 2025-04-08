@@ -23,4 +23,10 @@
 		   text="Haya Sadi"
 		   textAlignment="CENTER"
 		   VBox.vgrow="ALWAYS" />
+
+	<Label alignment="CENTER"
+		   maxWidth="2.7976931348623157E308"
+		   text="Wallaa Tatour"
+		   textAlignment="CENTER"
+		   VBox.vgrow="ALWAYS" />
 </VBox>
