@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.control.Label?>
 <?import javafx.scene.text.Font?>
@@ -22,7 +21,6 @@
 		   text="Haya Sadi"
 		   textAlignment="CENTER"
 		   VBox.vgrow="ALWAYS" />
-
 
 	<Label alignment="CENTER"
 		   maxWidth="2.7976931348623157E308"
