@@ -19,7 +19,7 @@
 	</Label>
 
 	<Label alignment="CENTER"
-		   maxWidth="1.7976931348623157E308"
+		   maxWidth="2.7976931348623157E308"
 		   text="Haya Sadi"
 		   textAlignment="CENTER"
 		   VBox.vgrow="ALWAYS" />
